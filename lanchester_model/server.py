@@ -6,7 +6,7 @@ from .model import RedSoldier, BlueSoldier
 
 
 def agent_portrayal(agent):
-    portrayal = {"Shape": "circle","Filled": "true","r": 0.5}
+    portrayal = {"Shape": "circle","Filled": "true","r": 2}
     
     if type(agent) is RedSoldier:
         portrayal["Color"] = "red"
@@ -15,7 +15,7 @@ def agent_portrayal(agent):
     
     if type(agent) is BlueSoldier:
         portrayal["Color"] = "blue"
-        portrayal["r"] = 0.5
+        portrayal["r"] = 2
         portrayal["Layer"] = 1
     
     

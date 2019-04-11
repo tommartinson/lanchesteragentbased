@@ -22,6 +22,8 @@ probability of killing an opposing troop is expressed in the lethality coefficie
         self.blueAgentList = []
         self.turn = 1
         
+        #redLethality = input("Enter Red team lethality coefficient")
+        #blueLethality = input("Enter Blue team lethality coefficient")
         
         # Create Red and Blue agents
         for i in range(self.num_agents):
@@ -99,6 +101,7 @@ class RedSoldier(Agent):
             
             
     def step(self):
+        lethalityCoeff = 0.7
         self.shoot()
         
     
@@ -133,6 +136,7 @@ class BlueSoldier(Agent):
                 
 
     def step(self):
+        lethalityCoeff = 0.8
         self.shoot()
         
         

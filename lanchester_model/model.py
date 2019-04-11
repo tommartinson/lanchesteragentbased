@@ -101,8 +101,11 @@ class RedSoldier(Agent):
             
             
     def step(self):
-        lethalityCoeff = 0.7
-        self.shoot()
+        # lethality coeff from 1-10 (10% to `100%)
+        lethalityCoeff = 9
+        randNum= random.randint(1,11)
+        if(randNum < lethalityCoeff):
+            self.shoot()
         
     
         
@@ -136,8 +139,11 @@ class BlueSoldier(Agent):
                 
 
     def step(self):
-        lethalityCoeff = 0.8
-        self.shoot()
+        # lethality coeff from 1-10 (10% to `100%)
+        lethalityCoeff = 8
+        randNum= random.randint(1,11)
+        if(randNum < lethalityCoeff):
+            self.shoot()
         
         
         

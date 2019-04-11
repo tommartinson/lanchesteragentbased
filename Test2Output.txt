@@ -1,0 +1,1348 @@
+Test 2 Inputs:
+Red Team Lethality Coefficient: 0.9
+Blue Team Lethality Coefficient: 0.8
+Red Team Size: 100
+Blue Team Size: 100
+
+(base) C:\Users\Tom\Desktop\School\CS558\Homework5\Lanchester>mesa runserver
+Interface starting at http://127.0.0.1:8521
+Socket opened!
+{"type":"get_params"}
+{"type":"reset"}
+{"type":"get_step","step":1}
+Red Turn
+
+Red soldier at (8, 7) killed blue piece at  (8, 6)
+Red team size: 100
+Blue team size: 99
+{"type":"get_step","step":2}
+Blue Turn
+{"type":"get_step","step":3}
+Red Turn
+{"type":"get_step","step":4}
+Blue Turn
+
+Blue soldier at (19, 7) killed red soldier at  (19, 7)
+Red team size: 99
+Blue team size: 99
+{"type":"get_step","step":5}
+Red Turn
+{"type":"get_step","step":6}
+Blue Turn
+{"type":"get_step","step":7}
+Red Turn
+
+Red soldier at (6, 7) killed blue piece at  (6, 8)
+Red team size: 99
+Blue team size: 98
+{"type":"get_step","step":8}
+Blue Turn
+
+Blue soldier at (13, 11) killed red soldier at  (12, 11)
+Red team size: 98
+Blue team size: 98
+{"type":"get_step","step":9}
+Red Turn
+{"type":"get_step","step":10}
+Blue Turn
+
+Blue soldier at (17, 3) killed red soldier at  (18, 3)
+Red team size: 97
+Blue team size: 98
+{"type":"get_step","step":11}
+Red Turn
+{"type":"get_step","step":12}
+Blue Turn
+
+Blue soldier at (1, 13) killed red soldier at  (0, 12)
+Red team size: 96
+Blue team size: 98
+{"type":"get_step","step":13}
+Red Turn
+
+Red soldier at (3, 8) killed blue piece at  (2, 8)
+Red team size: 96
+Blue team size: 97
+{"type":"get_step","step":14}
+Blue Turn
+
+Blue soldier at (15, 11) killed red soldier at  (16, 9)
+Red team size: 95
+Blue team size: 97
+{"type":"get_step","step":15}
+Red Turn
+
+Red soldier at (7, 12) killed blue piece at  (6, 12)
+Red team size: 95
+Blue team size: 96
+{"type":"get_step","step":16}
+Blue Turn
+{"type":"get_step","step":17}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (16, 1)
+Red team size: 95
+Blue team size: 95
+{"type":"get_step","step":18}
+Blue Turn
+{"type":"get_step","step":19}
+Red Turn
+
+Red soldier at (18, 14) killed blue piece at  (19, 14)
+Red team size: 95
+Blue team size: 94
+{"type":"get_step","step":20}
+Blue Turn
+
+Blue soldier at (2, 12) killed red soldier at  (3, 13)
+Red team size: 94
+Blue team size: 94
+{"type":"get_step","step":21}
+Red Turn
+
+Red soldier at (5, 17) killed blue piece at  (5, 17)
+Red team size: 94
+Blue team size: 93
+{"type":"get_step","step":22}
+Blue Turn
+
+Blue soldier at (11, 2) killed red soldier at  (11, 1)
+Red team size: 93
+Blue team size: 93
+{"type":"get_step","step":23}
+Red Turn
+{"type":"get_step","step":24}
+Blue Turn
+
+Blue soldier at (1, 13) killed red soldier at  (0, 15)
+Red team size: 92
+Blue team size: 93
+{"type":"get_step","step":25}
+Red Turn
+
+Red soldier at (8, 17) killed blue piece at  (8, 17)
+Red team size: 92
+Blue team size: 92
+{"type":"get_step","step":26}
+Blue Turn
+
+Blue soldier at (15, 10) killed red soldier at  (13, 9)
+Red team size: 91
+Blue team size: 92
+{"type":"get_step","step":27}
+Red Turn
+
+Red soldier at (7, 16) killed blue piece at  (8, 15)
+Red team size: 91
+Blue team size: 91
+{"type":"get_step","step":28}
+Blue Turn
+
+Blue soldier at (9, 11) killed red soldier at  (10, 11)
+Red team size: 90
+Blue team size: 91
+{"type":"get_step","step":29}
+Red Turn
+
+Red soldier at (16, 7) killed blue piece at  (16, 6)
+Red team size: 90
+Blue team size: 90
+{"type":"get_step","step":30}
+Blue Turn
+
+Blue soldier at (5, 17) killed red soldier at  (5, 17)
+Red team size: 89
+Blue team size: 90
+{"type":"get_step","step":31}
+Red Turn
+
+Red soldier at (16, 7) killed blue piece at  (17, 6)
+Red team size: 89
+Blue team size: 89
+{"type":"get_step","step":32}
+Blue Turn
+
+Blue soldier at (16, 5) killed red soldier at  (16, 6)
+Red team size: 88
+Blue team size: 89
+{"type":"get_step","step":33}
+Red Turn
+
+Red soldier at (7, 16) killed blue piece at  (8, 15)
+Red team size: 88
+Blue team size: 88
+{"type":"get_step","step":34}
+Blue Turn
+
+Blue soldier at (12, 3) killed red soldier at  (12, 3)
+Red team size: 87
+Blue team size: 88
+{"type":"get_step","step":35}
+Red Turn
+
+Red soldier at (1, 4) killed blue piece at  (2, 4)
+Red team size: 87
+Blue team size: 87
+{"type":"get_step","step":36}
+Blue Turn
+{"type":"get_step","step":37}
+Red Turn
+
+Red soldier at (4, 6) killed blue piece at  (5, 6)
+Red team size: 87
+Blue team size: 86
+{"type":"get_step","step":38}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (0, 9)
+Red team size: 86
+Blue team size: 86
+{"type":"get_step","step":39}
+Red Turn
+
+Red soldier at (19, 4) killed blue piece at  (18, 4)
+Red team size: 86
+Blue team size: 85
+{"type":"get_step","step":40}
+Blue Turn
+
+Blue soldier at (3, 15) killed red soldier at  (4, 14)
+Red team size: 85
+Blue team size: 85
+{"type":"get_step","step":41}
+Red Turn
+{"type":"get_step","step":42}
+Blue Turn
+
+Blue soldier at (15, 0) killed red soldier at  (15, 0)
+Red team size: 84
+Blue team size: 85
+{"type":"get_step","step":43}
+Red Turn
+
+Red soldier at (0, 7) killed blue piece at  (19, 7)
+Red team size: 84
+Blue team size: 84
+{"type":"get_step","step":44}
+Blue Turn
+{"type":"get_step","step":45}
+Red Turn
+
+Red soldier at (15, 18) killed blue piece at  (15, 18)
+Red team size: 84
+Blue team size: 83
+{"type":"get_step","step":46}
+Blue Turn
+
+Blue soldier at (7, 2) killed red soldier at  (8, 2)
+Red team size: 83
+Blue team size: 83
+{"type":"get_step","step":47}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (14, 4)
+Red team size: 83
+Blue team size: 82
+{"type":"get_step","step":48}
+Blue Turn
+
+Blue soldier at (16, 11) killed red soldier at  (18, 8)
+Red team size: 82
+Blue team size: 82
+{"type":"get_step","step":49}
+Red Turn
+
+Red soldier at (3, 8) killed blue piece at  (1, 9)
+Red team size: 82
+Blue team size: 81
+{"type":"get_step","step":50}
+Blue Turn
+
+Blue soldier at (1, 17) killed red soldier at  (0, 19)
+Red team size: 81
+Blue team size: 81
+{"type":"get_step","step":51}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (17, 19)
+Red team size: 81
+Blue team size: 80
+{"type":"get_step","step":52}
+Blue Turn
+
+Blue soldier at (19, 2) killed red soldier at  (0, 2)
+Red team size: 80
+Blue team size: 80
+{"type":"get_step","step":53}
+Red Turn
+
+Red soldier at (9, 0) killed blue piece at  (9, 2)
+Red team size: 80
+Blue team size: 79
+{"type":"get_step","step":54}
+Blue Turn
+
+Blue soldier at (17, 9) killed red soldier at  (17, 7)
+Red team size: 79
+Blue team size: 79
+{"type":"get_step","step":55}
+Red Turn
+
+Red soldier at (9, 2) killed blue piece at  (11, 2)
+Red team size: 79
+Blue team size: 78
+{"type":"get_step","step":56}
+Blue Turn
+
+Blue soldier at (12, 12) killed red soldier at  (12, 12)
+Red team size: 78
+Blue team size: 78
+{"type":"get_step","step":57}
+Red Turn
+{"type":"get_step","step":58}
+Blue Turn
+
+Blue soldier at (17, 9) killed red soldier at  (16, 7)
+Red team size: 77
+Blue team size: 78
+{"type":"get_step","step":59}
+Red Turn
+
+Red soldier at (9, 2) killed blue piece at  (9, 4)
+Red team size: 77
+Blue team size: 77
+{"type":"get_step","step":60}
+Blue Turn
+{"type":"get_step","step":61}
+Red Turn
+
+Red soldier at (9, 2) killed blue piece at  (7, 2)
+Red team size: 77
+Blue team size: 76
+{"type":"get_step","step":62}
+Blue Turn
+{"type":"get_step","step":63}
+Red Turn
+{"type":"get_step","step":64}
+Blue Turn
+
+Blue soldier at (12, 3) killed red soldier at  (13, 4)
+Red team size: 76
+Blue team size: 76
+{"type":"get_step","step":65}
+Red Turn
+{"type":"get_step","step":66}
+Blue Turn
+{"type":"get_step","step":67}
+Red Turn
+
+Red soldier at (11, 11) killed blue piece at  (11, 11)
+Red team size: 76
+Blue team size: 75
+{"type":"get_step","step":68}
+Blue Turn
+
+Blue soldier at (19, 0) killed red soldier at  (18, 1)
+Red team size: 75
+Blue team size: 75
+{"type":"get_step","step":69}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (16, 19)
+Red team size: 75
+Blue team size: 74
+{"type":"get_step","step":70}
+Blue Turn
+
+Blue soldier at (0, 12) killed red soldier at  (18, 14)
+Red team size: 74
+Blue team size: 74
+{"type":"get_step","step":71}
+Red Turn
+{"type":"get_step","step":72}
+Blue Turn
+{"type":"get_step","step":73}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (12, 1)
+Red team size: 74
+Blue team size: 73
+{"type":"get_step","step":74}
+Blue Turn
+{"type":"get_step","step":75}
+Red Turn
+
+Red soldier at (4, 6) killed blue piece at  (3, 5)
+Red team size: 74
+Blue team size: 72
+{"type":"get_step","step":76}
+Blue Turn
+
+Blue soldier at (16, 5) killed red soldier at  (14, 3)
+Red team size: 73
+Blue team size: 72
+{"type":"get_step","step":77}
+Red Turn
+
+Red soldier at (19, 3) killed blue piece at  (19, 2)
+Red team size: 73
+Blue team size: 71
+{"type":"get_step","step":78}
+Blue Turn
+
+Blue soldier at (11, 1) killed red soldier at  (12, 0)
+Red team size: 72
+Blue team size: 71
+{"type":"get_step","step":79}
+Red Turn
+{"type":"get_step","step":80}
+Blue Turn
+
+Blue soldier at (19, 13) killed red soldier at  (19, 16)
+Red team size: 71
+Blue team size: 71
+{"type":"get_step","step":81}
+Red Turn
+{"type":"get_step","step":82}
+Blue Turn
+
+Blue soldier at (6, 11) killed red soldier at  (6, 11)
+Red team size: 70
+Blue team size: 71
+{"type":"get_step","step":83}
+Red Turn
+
+Red soldier at (7, 12) killed blue piece at  (6, 11)
+Red team size: 70
+Blue team size: 70
+{"type":"get_step","step":84}
+Blue Turn
+
+Blue soldier at (4, 13) killed red soldier at  (7, 12)
+Red team size: 69
+Blue team size: 70
+{"type":"get_step","step":85}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (16, 1)
+Red team size: 69
+Blue team size: 69
+{"type":"get_step","step":86}
+Blue Turn
+
+Blue soldier at (11, 15) killed red soldier at  (12, 16)
+Red team size: 68
+Blue team size: 69
+{"type":"get_step","step":87}
+Red Turn
+{"type":"get_step","step":88}
+Blue Turn
+
+Blue soldier at (12, 3) killed red soldier at  (13, 4)
+Red team size: 67
+Blue team size: 69
+{"type":"get_step","step":89}
+Red Turn
+
+Red soldier at (9, 2) killed blue piece at  (11, 1)
+Red team size: 67
+Blue team size: 68
+{"type":"get_step","step":90}
+Blue Turn
+{"type":"get_step","step":91}
+Red Turn
+
+Red soldier at (19, 4) killed blue piece at  (19, 5)
+Red team size: 67
+Blue team size: 67
+{"type":"get_step","step":92}
+Blue Turn
+
+Blue soldier at (6, 5) killed red soldier at  (6, 5)
+Red team size: 66
+Blue team size: 67
+{"type":"get_step","step":93}
+Red Turn
+
+Red soldier at (6, 7) killed blue piece at  (5, 7)
+Red team size: 66
+Blue team size: 66
+{"type":"get_step","step":94}
+Blue Turn
+
+Blue soldier at (2, 11) killed red soldier at  (2, 8)
+Red team size: 65
+Blue team size: 66
+{"type":"get_step","step":95}
+Red Turn
+{"type":"get_step","step":96}
+Blue Turn
+{"type":"get_step","step":97}
+Red Turn
+
+Red soldier at (4, 6) killed blue piece at  (5, 7)
+Red team size: 65
+Blue team size: 65
+{"type":"get_step","step":98}
+Blue Turn
+
+Blue soldier at (12, 3) killed red soldier at  (11, 4)
+Red team size: 64
+Blue team size: 65
+{"type":"get_step","step":99}
+Red Turn
+
+Red soldier at (19, 3) killed blue piece at  (18, 4)
+Red team size: 64
+Blue team size: 64
+{"type":"get_step","step":100}
+Blue Turn
+{"type":"get_step","step":101}
+Red Turn
+
+Red soldier at (3, 6) killed blue piece at  (2, 5)
+Red team size: 64
+Blue team size: 63
+{"type":"get_step","step":102}
+Blue Turn
+
+Blue soldier at (19, 13) killed red soldier at  (16, 15)
+Red team size: 63
+Blue team size: 63
+{"type":"get_step","step":103}
+Red Turn
+{"type":"get_step","step":104}
+Blue Turn
+{"type":"get_step","step":105}
+Red Turn
+
+Red soldier at (13, 6) killed blue piece at  (15, 5)
+Red team size: 63
+Blue team size: 62
+{"type":"get_step","step":106}
+Blue Turn
+
+Blue soldier at (2, 13) killed red soldier at  (5, 17)
+Red team size: 62
+Blue team size: 62
+{"type":"get_step","step":107}
+Red Turn
+
+Red soldier at (2, 1) killed blue piece at  (1, 1)
+Red team size: 62
+Blue team size: 61
+{"type":"get_step","step":108}
+Blue Turn
+
+Blue soldier at (6, 5) killed red soldier at  (5, 6)
+Red team size: 61
+Blue team size: 61
+{"type":"get_step","step":109}
+Red Turn
+
+Red soldier at (1, 4) killed blue piece at  (3, 2)
+Red team size: 61
+Blue team size: 60
+{"type":"get_step","step":110}
+Blue Turn
+
+Blue soldier at (13, 10) killed red soldier at  (12, 9)
+Red team size: 60
+Blue team size: 60
+{"type":"get_step","step":111}
+Red Turn
+
+Red soldier at (5, 2) killed blue piece at  (5, 2)
+Red team size: 60
+Blue team size: 59
+{"type":"get_step","step":112}
+Blue Turn
+
+Blue soldier at (6, 4) killed red soldier at  (6, 3)
+Red team size: 59
+Blue team size: 59
+{"type":"get_step","step":113}
+Red Turn
+{"type":"get_step","step":114}
+Blue Turn
+{"type":"get_step","step":115}
+Red Turn
+
+Red soldier at (15, 18) killed blue piece at  (15, 0)
+Red team size: 59
+Blue team size: 58
+{"type":"get_step","step":116}
+Blue Turn
+
+Blue soldier at (4, 14) killed red soldier at  (5, 17)
+Red team size: 58
+Blue team size: 58
+{"type":"get_step","step":117}
+Red Turn
+{"type":"get_step","step":118}
+Blue Turn
+
+Blue soldier at (13, 9) killed red soldier at  (13, 7)
+Red team size: 57
+Blue team size: 58
+{"type":"get_step","step":119}
+Red Turn
+
+Red soldier at (12, 6) killed blue piece at  (14, 8)
+Red team size: 57
+Blue team size: 57
+{"type":"get_step","step":120}
+Blue Turn
+
+Blue soldier at (5, 4) killed red soldier at  (5, 3)
+Red team size: 56
+Blue team size: 57
+{"type":"get_step","step":121}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (15, 4)
+Red team size: 56
+Blue team size: 56
+{"type":"get_step","step":122}
+Blue Turn
+
+Blue soldier at (12, 12) killed red soldier at  (11, 12)
+Red team size: 55
+Blue team size: 56
+{"type":"get_step","step":123}
+Red Turn
+
+Red soldier at (6, 7) killed blue piece at  (7, 6)
+Red team size: 55
+Blue team size: 55
+{"type":"get_step","step":124}
+Blue Turn
+
+Blue soldier at (10, 14) killed red soldier at  (9, 14)
+Red team size: 54
+Blue team size: 55
+{"type":"get_step","step":125}
+Red Turn
+{"type":"get_step","step":126}
+Blue Turn
+
+Blue soldier at (2, 12) killed red soldier at  (3, 8)
+Red team size: 53
+Blue team size: 55
+{"type":"get_step","step":127}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (12, 3)
+Red team size: 53
+Blue team size: 54
+{"type":"get_step","step":128}
+Blue Turn
+
+Blue soldier at (6, 4) killed red soldier at  (5, 2)
+Red team size: 52
+Blue team size: 54
+{"type":"get_step","step":129}
+Red Turn
+{"type":"get_step","step":130}
+Blue Turn
+{"type":"get_step","step":131}
+Red Turn
+
+Red soldier at (19, 3) killed blue piece at  (17, 3)
+Red team size: 52
+Blue team size: 53
+{"type":"get_step","step":132}
+Blue Turn
+
+Blue soldier at (2, 12) killed red soldier at  (3, 8)
+Red team size: 51
+Blue team size: 53
+{"type":"get_step","step":133}
+Red Turn
+
+Red soldier at (12, 6) killed blue piece at  (13, 9)
+Red team size: 51
+Blue team size: 52
+{"type":"get_step","step":134}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (0, 7)
+Red team size: 50
+Blue team size: 52
+{"type":"get_step","step":135}
+Red Turn
+
+Red soldier at (17, 19) killed blue piece at  (18, 0)
+Red team size: 50
+Blue team size: 51
+{"type":"get_step","step":136}
+Blue Turn
+
+Blue soldier at (10, 14) killed red soldier at  (13, 14)
+Red team size: 49
+Blue team size: 51
+{"type":"get_step","step":137}
+Red Turn
+
+Red soldier at (9, 2) killed blue piece at  (6, 2)
+Red team size: 49
+Blue team size: 50
+{"type":"get_step","step":138}
+Blue Turn
+{"type":"get_step","step":139}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (19, 0)
+Red team size: 49
+Blue team size: 49
+{"type":"get_step","step":140}
+Blue Turn
+{"type":"get_step","step":141}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (0, 19)
+Red team size: 49
+Blue team size: 48
+{"type":"get_step","step":142}
+Blue Turn
+{"type":"get_step","step":143}
+Red Turn
+
+Red soldier at (6, 18) killed blue piece at  (6, 17)
+Red team size: 49
+Blue team size: 47
+{"type":"get_step","step":144}
+Blue Turn
+
+Blue soldier at (17, 4) killed red soldier at  (19, 4)
+Red team size: 48
+Blue team size: 47
+{"type":"get_step","step":145}
+Red Turn
+
+Red soldier at (1, 4) killed blue piece at  (4, 3)
+Red team size: 48
+Blue team size: 46
+{"type":"get_step","step":146}
+Blue Turn
+
+Blue soldier at (16, 11) killed red soldier at  (11, 11)
+Red team size: 47
+Blue team size: 46
+{"type":"get_step","step":147}
+Red Turn
+{"type":"get_step","step":148}
+Blue Turn
+{"type":"get_step","step":149}
+Red Turn
+
+Red soldier at (8, 7) killed blue piece at  (6, 5)
+Red team size: 47
+Blue team size: 45
+{"type":"get_step","step":150}
+Blue Turn
+
+Blue soldier at (19, 13) killed red soldier at  (15, 16)
+Red team size: 46
+Blue team size: 45
+{"type":"get_step","step":151}
+Red Turn
+{"type":"get_step","step":152}
+Blue Turn
+
+Blue soldier at (15, 11) killed red soldier at  (13, 15)
+Red team size: 45
+Blue team size: 45
+{"type":"get_step","step":153}
+Red Turn
+
+Red soldier at (2, 1) killed blue piece at  (2, 0)
+Red team size: 45
+Blue team size: 44
+{"type":"get_step","step":154}
+Blue Turn
+{"type":"get_step","step":155}
+Red Turn
+
+Red soldier at (17, 19) killed blue piece at  (0, 16)
+Red team size: 45
+Blue team size: 43
+{"type":"get_step","step":156}
+Blue Turn
+
+Blue soldier at (2, 11) killed red soldier at  (3, 7)
+Red team size: 44
+Blue team size: 43
+{"type":"get_step","step":157}
+Red Turn
+{"type":"get_step","step":158}
+Blue Turn
+
+Blue soldier at (13, 10) killed red soldier at  (10, 11)
+Red team size: 43
+Blue team size: 43
+{"type":"get_step","step":159}
+Red Turn
+{"type":"get_step","step":160}
+Blue Turn
+{"type":"get_step","step":161}
+Red Turn
+
+Red soldier at (1, 1) killed blue piece at  (1, 17)
+Red team size: 43
+Blue team size: 42
+{"type":"get_step","step":162}
+Blue Turn
+{"type":"get_step","step":163}
+Red Turn
+{"type":"get_step","step":164}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (15, 16)
+Red team size: 42
+Blue team size: 42
+{"type":"get_step","step":165}
+Red Turn
+{"type":"get_step","step":166}
+Blue Turn
+
+Blue soldier at (17, 9) killed red soldier at  (13, 6)
+Red team size: 41
+Blue team size: 42
+{"type":"get_step","step":167}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (17, 4)
+Red team size: 41
+Blue team size: 41
+{"type":"get_step","step":168}
+Blue Turn
+
+Blue soldier at (16, 5) killed red soldier at  (15, 2)
+Red team size: 40
+Blue team size: 41
+{"type":"get_step","step":169}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (12, 17)
+Red team size: 40
+Blue team size: 40
+{"type":"get_step","step":170}
+Blue Turn
+
+Blue soldier at (16, 5) killed red soldier at  (19, 3)
+Red team size: 39
+Blue team size: 40
+{"type":"get_step","step":171}
+Red Turn
+
+Red soldier at (8, 7) killed blue piece at  (6, 4)
+Red team size: 39
+Blue team size: 39
+{"type":"get_step","step":172}
+Blue Turn
+{"type":"get_step","step":173}
+Red Turn
+
+Red soldier at (11, 5) killed blue piece at  (16, 5)
+Red team size: 39
+Blue team size: 38
+{"type":"get_step","step":174}
+Blue Turn
+{"type":"get_step","step":175}
+Red Turn
+
+Red soldier at (2, 1) killed blue piece at  (6, 2)
+Red team size: 39
+Blue team size: 37
+{"type":"get_step","step":176}
+Blue Turn
+{"type":"get_step","step":177}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (12, 0)
+Red team size: 39
+Blue team size: 36
+{"type":"get_step","step":178}
+Blue Turn
+
+Blue soldier at (16, 10) killed red soldier at  (12, 6)
+Red team size: 38
+Blue team size: 36
+{"type":"get_step","step":179}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (19, 13)
+Red team size: 38
+Blue team size: 35
+{"type":"get_step","step":180}
+Blue Turn
+{"type":"get_step","step":181}
+Red Turn
+
+Red soldier at (1, 1) killed blue piece at  (4, 17)
+Red team size: 38
+Blue team size: 34
+{"type":"get_step","step":182}
+Blue Turn
+
+Blue soldier at (13, 10) killed red soldier at  (9, 9)
+Red team size: 37
+Blue team size: 34
+{"type":"get_step","step":183}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (12, 0)
+Red team size: 37
+Blue team size: 33
+{"type":"get_step","step":184}
+Blue Turn
+{"type":"get_step","step":185}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (19, 13)
+Red team size: 37
+Blue team size: 32
+{"type":"get_step","step":186}
+Blue Turn
+
+Blue soldier at (10, 14) killed red soldier at  (8, 17)
+Red team size: 36
+Blue team size: 32
+{"type":"get_step","step":187}
+Red Turn
+
+Red soldier at (3, 18) killed blue piece at  (5, 17)
+Red team size: 36
+Blue team size: 31
+{"type":"get_step","step":188}
+Blue Turn
+
+Blue soldier at (9, 17) killed red soldier at  (10, 18)
+Red team size: 35
+Blue team size: 31
+{"type":"get_step","step":189}
+Red Turn
+{"type":"get_step","step":190}
+Blue Turn
+
+Blue soldier at (3, 15) killed red soldier at  (3, 18)
+Red team size: 34
+Blue team size: 31
+{"type":"get_step","step":191}
+Red Turn
+
+Red soldier at (15, 18) killed blue piece at  (11, 15)
+Red team size: 34
+Blue team size: 30
+{"type":"get_step","step":192}
+Blue Turn
+{"type":"get_step","step":193}
+Red Turn
+
+Red soldier at (1, 4) killed blue piece at  (5, 4)
+Red team size: 34
+Blue team size: 29
+{"type":"get_step","step":194}
+Blue Turn
+
+Blue soldier at (16, 11) killed red soldier at  (15, 17)
+Red team size: 33
+Blue team size: 29
+{"type":"get_step","step":195}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (17, 9)
+Red team size: 33
+Blue team size: 28
+{"type":"get_step","step":196}
+Blue Turn
+
+Blue soldier at (16, 11) killed red soldier at  (12, 6)
+Red team size: 32
+Blue team size: 28
+{"type":"get_step","step":197}
+Red Turn
+
+Red soldier at (12, 19) killed blue piece at  (9, 17)
+Red team size: 32
+Blue team size: 27
+{"type":"get_step","step":198}
+Blue Turn
+{"type":"get_step","step":199}
+Red Turn
+
+Red soldier at (12, 19) killed blue piece at  (8, 18)
+Red team size: 32
+Blue team size: 26
+{"type":"get_step","step":200}
+Blue Turn
+
+Blue soldier at (0, 12) killed red soldier at  (17, 18)
+Red team size: 31
+Blue team size: 26
+{"type":"get_step","step":201}
+Red Turn
+
+Red soldier at (17, 18) killed blue piece at  (19, 13)
+Red team size: 31
+Blue team size: 25
+{"type":"get_step","step":202}
+Blue Turn
+
+Blue soldier at (13, 10) killed red soldier at  (8, 11)
+Red team size: 30
+Blue team size: 25
+{"type":"get_step","step":203}
+Red Turn
+{"type":"get_step","step":204}
+Blue Turn
+
+Blue soldier at (16, 11) killed red soldier at  (17, 18)
+Red team size: 29
+Blue team size: 25
+{"type":"get_step","step":205}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (2, 15)
+Red team size: 29
+Blue team size: 24
+{"type":"get_step","step":206}
+Blue Turn
+
+Blue soldier at (15, 10) killed red soldier at  (11, 5)
+Red team size: 28
+Blue team size: 24
+{"type":"get_step","step":207}
+Red Turn
+{"type":"get_step","step":208}
+Blue Turn
+
+Blue soldier at (14, 11) killed red soldier at  (9, 6)
+Red team size: 27
+Blue team size: 24
+{"type":"get_step","step":209}
+Red Turn
+
+Red soldier at (3, 6) killed blue piece at  (2, 11)
+Red team size: 27
+Blue team size: 23
+{"type":"get_step","step":210}
+Blue Turn
+{"type":"get_step","step":211}
+Red Turn
+
+Red soldier at (7, 16) killed blue piece at  (10, 14)
+Red team size: 27
+Blue team size: 22
+{"type":"get_step","step":212}
+Blue Turn
+{"type":"get_step","step":213}
+Red Turn
+{"type":"get_step","step":214}
+Blue Turn
+{"type":"get_step","step":215}
+Red Turn
+{"type":"get_step","step":216}
+Blue Turn
+{"type":"get_step","step":217}
+Red Turn
+
+Red soldier at (7, 16) killed blue piece at  (4, 14)
+Red team size: 27
+Blue team size: 21
+{"type":"get_step","step":218}
+Blue Turn
+
+Blue soldier at (0, 12) killed red soldier at  (6, 9)
+Red team size: 26
+Blue team size: 21
+{"type":"get_step","step":219}
+Red Turn
+{"type":"get_step","step":220}
+Blue Turn
+{"type":"get_step","step":221}
+Red Turn
+
+Red soldier at (9, 3) killed blue piece at  (9, 11)
+Red team size: 26
+Blue team size: 20
+{"type":"get_step","step":222}
+Blue Turn
+
+Blue soldier at (16, 10) killed red soldier at  (1, 4)
+Red team size: 25
+Blue team size: 20
+{"type":"get_step","step":223}
+Red Turn
+{"type":"get_step","step":224}
+Blue Turn
+
+Blue soldier at (13, 13) killed red soldier at  (15, 18)
+Red team size: 24
+Blue team size: 20
+{"type":"get_step","step":225}
+Red Turn
+
+Red soldier at (3, 6) killed blue piece at  (0, 11)
+Red team size: 24
+Blue team size: 19
+{"type":"get_step","step":226}
+Blue Turn
+
+Blue soldier at (2, 12) killed red soldier at  (3, 6)
+Red team size: 23
+Blue team size: 19
+{"type":"get_step","step":227}
+Red Turn
+
+Red soldier at (7, 7) killed blue piece at  (11, 12)
+Red team size: 23
+Blue team size: 18
+{"type":"get_step","step":228}
+Blue Turn
+{"type":"get_step","step":229}
+Red Turn
+
+Red soldier at (8, 7) killed blue piece at  (13, 10)
+Red team size: 23
+Blue team size: 17
+{"type":"get_step","step":230}
+Blue Turn
+
+Blue soldier at (14, 11) killed red soldier at  (8, 7)
+Red team size: 22
+Blue team size: 17
+{"type":"get_step","step":231}
+Red Turn
+
+Red soldier at (1, 2) killed blue piece at  (3, 15)
+Red team size: 22
+Blue team size: 16
+{"type":"get_step","step":232}
+Blue Turn
+
+Blue soldier at (2, 12) killed red soldier at  (3, 6)
+Red team size: 21
+Blue team size: 16
+{"type":"get_step","step":233}
+Red Turn
+{"type":"get_step","step":234}
+Blue Turn
+
+Blue soldier at (15, 11) killed red soldier at  (17, 18)
+Red team size: 20
+Blue team size: 16
+{"type":"get_step","step":235}
+Red Turn
+
+Red soldier at (8, 7) killed blue piece at  (12, 12)
+Red team size: 20
+Blue team size: 15
+{"type":"get_step","step":236}
+Blue Turn
+{"type":"get_step","step":237}
+Red Turn
+{"type":"get_step","step":238}
+Blue Turn
+{"type":"get_step","step":239}
+Red Turn
+
+Red soldier at (14, 2) killed blue piece at  (15, 10)
+Red team size: 20
+Blue team size: 14
+{"type":"get_step","step":240}
+Blue Turn
+
+Blue soldier at (16, 10) killed red soldier at  (14, 2)
+Red team size: 19
+Blue team size: 14
+{"type":"get_step","step":241}
+Red Turn
+
+Red soldier at (8, 1) killed blue piece at  (4, 13)
+Red team size: 19
+Blue team size: 13
+{"type":"get_step","step":242}
+Blue Turn
+{"type":"get_step","step":243}
+Red Turn
+
+Red soldier at (1, 1) killed blue piece at  (1, 13)
+Red team size: 19
+Blue team size: 12
+{"type":"get_step","step":244}
+Blue Turn
+
+Blue soldier at (15, 11) killed red soldier at  (8, 7)
+Red team size: 18
+Blue team size: 12
+{"type":"get_step","step":245}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (13, 13)
+Red team size: 18
+Blue team size: 11
+{"type":"get_step","step":246}
+Blue Turn
+
+Blue soldier at (14, 11) killed red soldier at  (8, 7)
+Red team size: 17
+Blue team size: 11
+{"type":"get_step","step":247}
+Red Turn
+
+Red soldier at (14, 0) killed blue piece at  (14, 11)
+Red team size: 17
+Blue team size: 10
+{"type":"get_step","step":248}
+Blue Turn
+{"type":"get_step","step":249}
+Red Turn
+{"type":"get_step","step":250}
+Blue Turn
+
+Blue soldier at (0, 12) killed red soldier at  (4, 6)
+Red team size: 16
+Blue team size: 10
+{"type":"get_step","step":251}
+Red Turn
+
+Red soldier at (1, 1) killed blue piece at  (2, 13)
+Red team size: 16
+Blue team size: 9
+{"type":"get_step","step":252}
+Blue Turn
+{"type":"get_step","step":253}
+Red Turn
+{"type":"get_step","step":254}
+Blue Turn
+{"type":"get_step","step":255}
+Red Turn
+
+Red soldier at (9, 2) killed blue piece at  (13, 11)
+Red team size: 16
+Blue team size: 8
+{"type":"get_step","step":256}
+Blue Turn
+
+Blue soldier at (16, 11) killed red soldier at  (17, 19)
+Red team size: 15
+Blue team size: 8
+{"type":"get_step","step":257}
+Red Turn
+
+Red soldier at (14, 0) killed blue piece at  (15, 11)
+Red team size: 15
+Blue team size: 7
+{"type":"get_step","step":258}
+Blue Turn
+{"type":"get_step","step":259}
+Red Turn
+{"type":"get_step","step":260}
+Blue Turn
+{"type":"get_step","step":261}
+Red Turn
+
+Red soldier at (8, 1) killed blue piece at  (2, 12)
+Red team size: 15
+Blue team size: 6
+{"type":"get_step","step":262}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (6, 7)
+Red team size: 14
+Blue team size: 6
+{"type":"get_step","step":263}
+Red Turn
+
+Red soldier at (14, 0) killed blue piece at  (16, 11)
+Red team size: 14
+Blue team size: 5
+{"type":"get_step","step":264}
+Blue Turn
+{"type":"get_step","step":265}
+Red Turn
+
+Red soldier at (6, 18) killed blue piece at  (0, 12)
+Red team size: 14
+Blue team size: 4
+{"type":"get_step","step":266}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (7, 7)
+Red team size: 13
+Blue team size: 4
+{"type":"get_step","step":267}
+Red Turn
+
+Red soldier at (9, 0) killed blue piece at  (16, 11)
+Red team size: 13
+Blue team size: 3
+{"type":"get_step","step":268}
+Blue Turn
+{"type":"get_step","step":269}
+Red Turn
+{"type":"get_step","step":270}
+Blue Turn
+{"type":"get_step","step":271}
+Red Turn
+{"type":"get_step","step":272}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (1, 2)
+Red team size: 12
+Blue team size: 3
+{"type":"get_step","step":273}
+Red Turn
+
+Red soldier at (16, 1) killed blue piece at  (16, 10)
+Red team size: 12
+Blue team size: 2
+{"type":"get_step","step":274}
+Blue Turn
+
+Blue soldier at (18, 11) killed red soldier at  (14, 0)
+Red team size: 11
+Blue team size: 2
+{"type":"get_step","step":275}
+Red Turn
+{"type":"get_step","step":276}
+Blue Turn
+
+Blue soldier at (19, 11) killed red soldier at  (7, 16)
+Red team size: 10
+Blue team size: 2
+{"type":"get_step","step":277}
+Red Turn
+
+Red soldier at (6, 18) killed blue piece at  (19, 11)
+Red team size: 10
+Blue team size: 1
+{"type":"get_step","step":278}
+Blue Turn
+
+Blue soldier at (18, 11) killed red soldier at  (14, 2)
+Red team size: 9
+Blue team size: 1
+{"type":"get_step","step":279}
+Red Turn
+{"type":"get_step","step":280}
+Blue Turn
+{"type":"get_step","step":281}
+Red Turn
+{"type":"get_step","step":282}
+Blue Turn
+
+Blue soldier at (18, 11) killed red soldier at  (12, 19)
+Red team size: 8
+Blue team size: 1
+{"type":"get_step","step":283}
+Red Turn
+
+Red soldier at (6, 18) killed blue piece at  (18, 11)
+Red team size: 8
+Blue team size: 0
+{"type":"get_step","step":284}
+Battle Over! Red Team Wins.
+{"type":"get_step","step":285}
